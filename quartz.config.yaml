@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: aryascodetreks.github.io/peek-into-aryas-mind
+  baseUrl: https://aryascodetreks.github.io/peek-into-aryas-mind
   ignorePatterns:
     - private
     - templates
