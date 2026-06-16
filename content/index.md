@@ -8,10 +8,10 @@ A public garden of thoughts, experiments, observations, and unfinished ideas.
 
 ## Areas
 
-- [[Systems]]
-- [[Algorithms]]
-- [[Reinforcement Learning]]
+- [[systems]]
+- [[algorithms]]
+- [[reinforcement-learning]]
 
 ## Meta
 
-- [[Why Build This Garden]]
+- [[why-build-this-garden]]

@@ -6,5 +6,5 @@ Experiments, notes and intuition-building exercises.
 
 ## Related
 
-- [[Algorithms]]
-- [[Systems]]
+- [[algorithms]]
+- [[systems]]

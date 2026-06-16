@@ -6,5 +6,5 @@ Notes about device architecture, observability, debugging, infrastructure and op
 
 ## Related
 
-- [[Algorithms]]
-- [[Reinforcement Learning]]
+- [[algorithms]]
+- [[reinforcement-learning]]
